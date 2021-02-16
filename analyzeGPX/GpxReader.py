@@ -1,8 +1,8 @@
+
+class GpxReader():
 """
 Read information from GPX file.
 """
-class GpxReader():
-
     def __init(gpx_file)__:
         self df = self.__parse_gpx(gpx_file)
 
